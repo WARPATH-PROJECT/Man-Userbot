@@ -1,13 +1,13 @@
-# Man-Userbot Telegram
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/mrismanaziz/Man-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/mrismanaziz/Man-Userbot/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/mrismanaziz/Man-Userbot/dashboard)
-[![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
-[![GitHub Forks](https://img.shields.io/github/forks/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/stargazers)
+# WARPATH-USERBOT Telegram
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/WARPATH-PROJECT/WARPATH-USERBOT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/WARPATH-PROJECT/WARPATH-USERBOT/graphs/commit-activity)
+[![CodeFactor](https://www.codefactor.io/repository/github/WARPATH-PROJECT/WARPATH-USERBOT/badge)](https://www.codefactor.io/repository/github/WARPATH-PROJECT/WARPATH-USERBOT)
+[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/WARPATH-PROJECT/WARPATH-USERBOT/dashboard)
+[![Docker Pulls](https://img.shields.io/docker/pulls/WARPATH-PROJECT/WARPATH-USERBOT)](https://hub.docker.com/r/WARPATH-PROJECT/WARPATH-USERBOT/tags)
+[![GitHub Forks](https://img.shields.io/github/forks/WARPATH-PROJECT/WARPATH-USERBOT?&logo=github)](https://github.com/WARPATH-PROJECT/WARPATH-USERBOT/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/WARPATH-PROJECT/WARPATH-USERBOT?&logo=github)](https://github.com/WARPATH-PROJECT/WARPATH-USERBOT/stargazers)
 
-Man-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+WARPATH-USERBOT adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -23,9 +23,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## Tutorial
 
--  [Panduan Cara Memasang Man-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
+-  [Panduan Cara Memasang WARPATH-USERBOT](https://PAPIWARPATH.medium.com/cara-memasang-userbot-telegram-repo-WARPATH-USERBOT-deploy-di-heroku-c56d1f8b5537)
 -  [Cara Setting Last.FM modules](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
--  [List Variabel Man-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-Man-Userbot-09-22)
+-  [List Variabel WARPATH-USERBOT](https://telegra.ph/List-Variabel-Heroku-untuk-WARPATH-WARPATH-09-22)
 
 <details>
 <summary><b>🔗 String Session</b></summary>
@@ -54,24 +54,24 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ### Tutorial Deploy di VPS
 
--  `git clone https://github.com/mrismanaziz/Man-Userbot`
--  `cd Man-Userbot`
+-  `git clone https://github.com/WARPATH-PROJECT/WARPATH-USERBOT`
+-  `cd WARPATH-USERBOT`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
--  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Man-Userbot
--  Buka SCRREN di VPS Anda `screen -S Man-Userbot`
--  Kemudian gunakan perintah ini untuk menyebarkan Man-Userbot `python3 -m userbot`
+-  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori WARPATH-USERBOT
+-  Buka SCRREN di VPS Anda `screen -S WARPATH-USERBOT`
+-  Kemudian gunakan perintah ini untuk menyebarkan WARPATH-USERBOT `python3 -WARPATH USERBOT`
 
 </details>
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://warpath.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
 
 ## Updates & Support
 
-Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan Gabung Group [@SharingUserbot](https://t.me/SharingUserbot) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
+Follow Channel [@WARPATHNIEH](https://t.me/WARPATHNIEH) untuk info Update bot dan Gabung Group [@WARPATHSUPPORT](https://t.me/WARPATHSUPPORT) untuk untuk diskusi, pelaporan bug, dan bantuan tentang WARPATH-USERBOT.
 
-#### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
+#### Special Thanks To [Everyone](https://github.com/WARPATH-PROJECT/WARPATH-USERBOT/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 -  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
 -  [RaphielGang](https://github.com/RaphielGang) : Paperplane
 -  [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
